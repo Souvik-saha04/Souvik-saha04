@@ -1,129 +1,18 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter:wght@700&pause=1000&color=0ea5e9&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Souvik+Saha;Full-Stack+Django+Developer;AI+Powered+Web+Applications;Backend+%7C+REST+APIs+%7C+Databases" />
-</h1>
+# 💫 About Me:
+💻 Full Stack Developer | Django & React  <br>🤖 Exploring AI & Backend Systems  <br>🚀 Building real-world projects and scalable apps  <br>📚 Always learning, always improving
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-0ea5e9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React%20-10B981?style=for-the-badge" />
-</p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
-</p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/souvik saha) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/i_am_souvik04/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ souvik-saha-703b58326) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@iamSouvikss) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Souvik Saha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:souviksh2004@gmail.com) 
 
----
-
-## 🚀 About Me
-
-I’m a **Computer Science Engineering student** and **full-stack Django developer** with a strong foundation in backend development and AI-powered applications.
-
-- 🧠 Strong in **Python, React, Django, REST APIs**
-- 🤖 Experience integrating **AI-based bargaining & negotiation systems**
-- 🛒 Built real-world **e-commerce platforms**
-- 📚 Fresher with solid project-based learning
-- 🔍 Focused on clean architecture & scalable systems
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Souvik-saha04&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Souvik-saha04&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik-saha04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Souvik-saha04&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Skills & Technologies
-
-<table>
-<tr>
-  <td align="center">
-    <img src="https://skillicons.dev/icons?i=python,django,html,css,js,react,java,c,c++" /><br>
-    <strong>Languages & Frameworks</strong>
-  </td>
-</tr>
-<tr>
-  <td align="center">
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite,redis" /><br>
-    <strong>Databases</strong>
-  </td>
-</tr>
-<tr>
-  <td align="center">
-    <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,postman" /><br>
-    <strong>Tools & DevOps</strong>
-  </td>
-</tr>
-</table>
-
----
-
-## ✨ Featured Project
-
-### 🛒 **greenGrocers – AI Powered E-Commerce Platform**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=greenGrocers&theme=radical&border_radius=12" width="100%" />
-</div>
-
-**Description**  
-A full-stack e-commerce platform focused on fresh vegetables, fruits, and daily essentials.
-
-**Key Features**
-- Secure user authentication
-- Product catalog & cart system
-- Order & delivery workflow
-- 🤖 **AI-based price negotiation system**
-- Real-world backend logic
-
-**Tech Stack**
-- Django, Django REST Framework
-- SQLite
-- React
-- Redis
-- AI API Integration
-
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Souvik-saha04/citadel.git)
-
----
-
-## 🎓 Education
-
-- **B.Tech in Computer Science & Engineering**  
-  Techno Bengal Institute of Technology (2023 – 2027)  
-
-- **Class 12 (CBSE)** – 2023  
-- **Class 10 (ICSE)** – 2021
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" width="44%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" width="48%" />
-</div>
-
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-  <a href="https://github.com/Souvik-saha04">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="www.linkedin.com/in/souvik-saha-703b58326">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:souviksh2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0ea5e9" />
-</div>
-
-<div align="center">
-  <em>Backend-focused • AI-driven • Always learning 🚀</em>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
