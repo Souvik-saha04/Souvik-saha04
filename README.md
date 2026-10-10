@@ -1,16 +1,33 @@
 <div align="center">
 
-# 👋 Hi, I'm Souvik Saha
+<img src="https://raw.githubusercontent.com/Souvik-saha04/Souvik-saha04/main/banner.svg" alt="Souvik Saha" width="100%" />
 
-**Computer Science student · Full-stack & backend development · AI integration**
+![Status](https://img.shields.io/badge/status-open_to_internships-2EA043?style=for-the-badge)
+![Education](https://img.shields.io/badge/B.Tech_CSE-class_of_2027-1F6FEB?style=for-the-badge)
+![CGPA](https://img.shields.io/badge/CGPA-8.04-8957E5?style=for-the-badge)
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=django,nextjs,react,postgres,py&perline=5&theme=dark" alt="Main stack" />
 
 </div>
+
+```python
+# ~/souvik-saha04/about.py
+
+class SouvikSaha:
+    role = "Full-Stack & Backend Developer"
+    education = "B.Tech CSE @ Techno Bengal Institute of Technology"
+    graduating = 2027
+
+    main_stack = ["Django", "DRF", "React", "Next.js", "PostgreSQL"]
+    exploring = ["TypeScript", "RAG", "AI Agents", "CI/CD", "Cloud"]
+    looking_for = "Software engineering internships"
+
+    def build(self):
+        return "Scalable apps, one commit at a time."
+
+if __name__ == "__main__":
+    print(SouvikSaha().build())
+```
 
 ---
 
@@ -25,54 +42,78 @@ My main stack is **Django, Django REST Framework, React, Next.js, and PostgreSQL
 ## 🛠️ Technical Skills
 
 ### Core Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-ff1709?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py,js,django,react,nextjs,tailwind,postgres&perline=7" alt="Core stack" />
 
-### Also Worked With
+### Languages
+<img src="https://skillicons.dev/icons?i=py,js,ts,c,html,css&perline=6" alt="Languages" />
 
-| Area | Technologies |
-|------|--------------|
-| **Languages** | TypeScript, C, HTML5, CSS3 |
-| **Frontend** | React Router, Redux, Zustand |
-| **Backend** | RESTful APIs, JWT Authentication |
-| **Databases & Caching** | MySQL, SQLite, MongoDB, Redis |
-| **AI / ML** | Scikit-learn, NumPy, Pandas, OpenCV, LangChain, Hugging Face, LLM APIs, RAG, embeddings & vector search |
-| **Tools & DevOps** | Git, GitHub, GitHub Actions, Docker, Postman, Nginx, Cloudinary |
-| **Deployment** | Vercel, Render, AWS |
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&perline=4" alt="Frontend" />
 
-> Some of these (TypeScript, Docker, GitHub Actions, agentic AI, AWS) are areas I'm actively growing in rather than areas of deep expertise.
+React Router · Zustand
+
+### Backend
+<img src="https://skillicons.dev/icons?i=django,py&perline=2" alt="Backend" />
+
+Django REST Framework · RESTful APIs · JWT Authentication
+
+### Databases & Caching
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis&perline=5" alt="Databases" />
+
+### AI / Machine Learning
+<img src="https://skillicons.dev/icons?i=py,numpy,pandas,opencv&perline=4" alt="AI and ML" />
+
+Scikit-learn · LangChain · Hugging Face · LLM APIs · RAG · Embeddings & vector search
+
+### Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,nginx&perline=6" alt="Tools and DevOps" />
+
+Cloudinary
+
+### Deployment & Cloud
+<img src="https://skillicons.dev/icons?i=vercel,aws&perline=2" alt="Deployment" />
+
+Render
+
+> TypeScript, Docker, GitHub Actions, AWS, and agentic AI are areas I'm actively growing in rather than areas of deep expertise.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛒 GreenGrocers — AI-Powered E-commerce
+### 🛒 GreenGrocers: AI-Powered E-commerce
 A full-stack e-commerce application with product browsing, cart management, authentication, ordering, and an AI-powered price negotiation feature.
-**Tech:** React · Django · Django REST Framework · `DATABASE_USED` · AI API integration
+
+<img src="https://skillicons.dev/icons?i=react,django,postgres&perline=3" alt="GreenGrocers tech" />
+
+**Also:** Django REST Framework · AI API integration · `DATABASE_USED`
 🔗 [Repository](YOUR_REPOSITORY_URL)
 
 ### 📦 Inventory Management System
 An inventory application for tracking products, suppliers, stock entries, usage, wastage, adjustments, and inventory reports.
-**Tech:** Next.js · Django · Django REST Framework · `DATABASE_USED`
+
+<img src="https://skillicons.dev/icons?i=nextjs,django,postgres&perline=3" alt="Inventory tech" />
+
+**Also:** Django REST Framework · `DATABASE_USED`
 🔗 [Repository](YOUR_REPOSITORY_URL)
 
-### 📄 CornPDF AI — PDF Q&A
+### 📄 CornPDF AI: PDF Q&A
 An AI-powered document question-answering tool: upload a PDF and ask questions about its contents using document processing, embeddings, and semantic vector search with an LLM.
-**Tech:** React · Python · LangChain · Embeddings & vector search · LLM APIs · `CLOUD_STORAGE_IF_USED`
+
+<img src="https://skillicons.dev/icons?i=react,py&perline=2" alt="CornPDF tech" />
+
+**Also:** LangChain · Embeddings & vector search · LLM APIs · `CLOUD_STORAGE_IF_USED`
 🔗 [Repository](YOUR_REPOSITORY_URL)
 
-### 🎫 IT Service Management (ITSM) — *In Progress*
+### 🎫 IT Service Management (ITSM): *In Progress*
 A full-stack learning project centered on service management, covering user authentication, role-based access, permissions, and service workflows.
+
+<img src="https://skillicons.dev/icons?i=django,postgres,nextjs&perline=3" alt="ITSM tech" />
+
 - **Implemented:** `LIST_IMPLEMENTED_FEATURES` (e.g., JWT authentication, role-based access)
 - **Planned:** Next.js frontend, `LIST_OTHER_PLANNED_FEATURES`
 
-**Tech:** Django · Django REST Framework · JWT · PostgreSQL · Next.js *(planned)*
+**Also:** Django REST Framework · JWT
 🔗 [Repository](YOUR_REPOSITORY_URL)
 
 ### 🤖 Machine Learning Projects
@@ -88,6 +129,8 @@ A full-stack learning project centered on service management, covering user auth
 ---
 
 ## 🌱 Currently Learning
+
+<img src="https://skillicons.dev/icons?i=ts,nextjs,githubactions,aws&perline=4" alt="Currently learning" />
 
 - **TypeScript** and advanced **Next.js**
 - **Generative AI & agentic AI**: AI agents, tool calling, agent workflows
