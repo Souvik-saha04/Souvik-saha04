@@ -41,82 +41,136 @@ My main stack is **Django, Django REST Framework, React, Next.js, and PostgreSQL
 
 ## 🛠️ Technical Skills
 
-### Core Stack
+### ⭐ Core Stack
 <img src="https://skillicons.dev/icons?i=py,js,django,react,nextjs,tailwind,postgres&perline=7" alt="Core stack" />
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=py,js,ts,c,html,css&perline=6" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,c,cpp,java,html,css&perline=8" alt="Languages" />
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&perline=4" alt="Frontend" />
+SQL · YAML · JSON
 
-React Router · Zustand
+### Frameworks
+<img src="https://skillicons.dev/icons?i=react,nextjs,django,fastapi,flask,express,nodejs,bootstrap,tailwind,tensorflow,pytorch&perline=11" alt="Frameworks" />
 
-### Backend
-<img src="https://skillicons.dev/icons?i=django,py&perline=2" alt="Backend" />
+Django REST Framework · Streamlit · LangChain
 
-Django REST Framework · RESTful APIs · JWT Authentication
+### Libraries
+<img src="https://skillicons.dev/icons?i=sklearn,numpy,pandas,scipy,matplotlib,opencv,redux&perline=7" alt="Libraries" />
+
+Seaborn · Plotly · NLTK · spaCy · Hugging Face Transformers · FAISS · Pydantic · Zustand · React Router · PyPDF · pdf2image · pytesseract · tabula-py · Joblib
+
+### AI / LLM Tools
+<img src="https://skillicons.dev/icons?i=jupyter&perline=1" alt="AI and LLM tools" />
+
+OpenAI API · Google Gemini API · Hugging Face · Ollama · Pinecone · ChromaDB · Google Colab · Kaggle · Jupyter Notebook
 
 ### Databases & Caching
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis&perline=5" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis&perline=5" alt="Databases and caching" />
 
-### AI / Machine Learning
-<img src="https://skillicons.dev/icons?i=py,numpy,pandas,opencv&perline=4" alt="AI and ML" />
+Memcached
 
-Scikit-learn · LangChain · Hugging Face · LLM APIs · RAG · Embeddings & vector search
+### DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,nginx,rabbitmq,aws,vercel&perline=9" alt="DevOps and cloud" />
 
-### Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,nginx&perline=6" alt="Tools and DevOps" />
+Docker Compose · WSL · Celery · AWS (EC2, S3, RDS, IAM) · Render · Cloudinary
 
-Cloudinary
+### Developer & Testing Tools
+<img src="https://skillicons.dev/icons?i=vscode,postman,selenium&perline=3" alt="Developer and testing tools" />
 
-### Deployment & Cloud
-<img src="https://skillicons.dev/icons?i=vercel,aws&perline=2" alt="Deployment" />
+GitHub Copilot · Cursor AI · Tesseract OCR · Poppler
 
-Render
+### Authentication & Utilities
+<img src="https://skillicons.dev/icons?i=firebase,wordpress&perline=2" alt="Authentication and utilities" />
 
-> TypeScript, Docker, GitHub Actions, AWS, and agentic AI are areas I'm actively growing in rather than areas of deep expertise.
+Firebase Authentication · Firebase Admin SDK · Simple JWT · Requests · python-dotenv · Pickle · WebSockets · Django Channels · Gunicorn · Uvicorn
+
+> My strongest area is the core stack above. TypeScript, Docker, GitHub Actions, AWS, and agentic AI are areas I'm actively growing in, and the rest are tools I've used in projects or while learning.
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
+
+# 🚀 Featured Projects
+
+*Things I've built and am building, from full-stack apps to AI-powered tools.*
+
+</div>
+
+| Project | What it is | Core tech |
+|---------|-----------|-----------|
+| 🏥 **Neuronex** | Healthcare management platform *(in development)* | Next.js · TypeScript · Django REST Framework |
+| 🛒 **GreenGrocers** | AI-powered e-commerce app | React · Django · AI integration |
+| 📄 **CornPDF AI** | Ask questions about your PDFs | React · Python · LangChain · RAG |
+| 🤖 **ML Projects** | Four classic machine learning projects | Python · Machine Learning |
+
+<br>
+
+### 🏥 Neuronex: Healthcare Management Platform
+
+![Type](https://img.shields.io/badge/Full--Stack-1F6FEB?style=flat-square)
+![Status](https://img.shields.io/badge/In_Development-F0883E?style=flat-square)
+
+A full-stack healthcare management platform that aims to streamline healthcare-related operations through a modern web interface and RESTful backend services.
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,django,postgres&perline=4" alt="Neuronex tech" />
+
+| Area | Status |
+|------|--------|
+| **Frontend:** Next.js and TypeScript | 🔨 In development |
+| **Backend:** Django REST Framework | 📝 Planned |
+| **Database:** PostgreSQL | 📝 Planned |
+| **Authentication:** JWT-based API security | 📝 Planned |
+
+**Design focus:** a modular architecture that supports maintainability, data management, and future feature expansion.
+
+🔗 [Repository](YOUR_REPOSITORY_URL)
+
+---
 
 ### 🛒 GreenGrocers: AI-Powered E-commerce
-A full-stack e-commerce application with product browsing, cart management, authentication, ordering, and an AI-powered price negotiation feature.
+
+![Type](https://img.shields.io/badge/Full--Stack-1F6FEB?style=flat-square)
+![AI](https://img.shields.io/badge/AI_Integration-8957E5?style=flat-square)
+
+A full-stack e-commerce application where customers can shop and even negotiate prices with an AI.
+
+**Key features**
+- Product browsing and cart management
+- User authentication and order placement
+- AI-powered price negotiation
 
 <img src="https://skillicons.dev/icons?i=react,django,postgres&perline=3" alt="GreenGrocers tech" />
 
 **Also:** Django REST Framework · AI API integration · `DATABASE_USED`
+
 🔗 [Repository](YOUR_REPOSITORY_URL)
 
-### 📦 Inventory Management System
-An inventory application for tracking products, suppliers, stock entries, usage, wastage, adjustments, and inventory reports.
-
-<img src="https://skillicons.dev/icons?i=nextjs,django,postgres&perline=3" alt="Inventory tech" />
-
-**Also:** Django REST Framework · `DATABASE_USED`
-🔗 [Repository](YOUR_REPOSITORY_URL)
+---
 
 ### 📄 CornPDF AI: PDF Q&A
-An AI-powered document question-answering tool: upload a PDF and ask questions about its contents using document processing, embeddings, and semantic vector search with an LLM.
+
+![Type](https://img.shields.io/badge/AI_Application-8957E5?style=flat-square)
+![Tech](https://img.shields.io/badge/RAG-2EA043?style=flat-square)
+
+An AI-powered document question-answering tool. Upload a PDF, ask questions in plain language, and get answers based on the document's contents.
+
+**Key features**
+- PDF upload and document processing
+- Embeddings and semantic vector search to find relevant passages
+- LLM-generated answers grounded in the document
 
 <img src="https://skillicons.dev/icons?i=react,py&perline=2" alt="CornPDF tech" />
 
 **Also:** LangChain · Embeddings & vector search · LLM APIs · `CLOUD_STORAGE_IF_USED`
+
 🔗 [Repository](YOUR_REPOSITORY_URL)
 
-### 🎫 IT Service Management (ITSM): *In Progress*
-A full-stack learning project centered on service management, covering user authentication, role-based access, permissions, and service workflows.
-
-<img src="https://skillicons.dev/icons?i=django,postgres,nextjs&perline=3" alt="ITSM tech" />
-
-- **Implemented:** `LIST_IMPLEMENTED_FEATURES` (e.g., JWT authentication, role-based access)
-- **Planned:** Next.js frontend, `LIST_OTHER_PLANNED_FEATURES`
-
-**Also:** Django REST Framework · JWT
-🔗 [Repository](YOUR_REPOSITORY_URL)
+---
 
 ### 🤖 Machine Learning Projects
+
+![Type](https://img.shields.io/badge/Machine_Learning-F0883E?style=flat-square)
+
 | Project | Description |
 |---------|-------------|
 | **Car Price Prediction** | Predicts used-car prices from vehicle attributes. |
